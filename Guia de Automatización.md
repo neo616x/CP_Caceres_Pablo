@@ -3,7 +3,7 @@ Guia para ejecución de la Automatización.
 
 1) Requisitos.
 + Encontrarse dentro de la red de la empresa o utilizar VPN para la conexión.
-+ Modificar las rutas de origenes y destinos en el equipo desde donde se realizará la ejecución de la automatización.
++ Modificar las rutas en donde lo requiera el código, de origenes y destinos a las rutas en el equipo desde donde se realizará la ejecución de la automatización.
 
 2) La ejecución de la automatización se debe realizar de manera ordenada y de la siguiente forma:
 
